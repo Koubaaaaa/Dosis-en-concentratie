@@ -47,7 +47,7 @@
 |-------------|---------|---------|------------|
 | **Massapercentage** | m% = (m<sub>opgeloste stof</sub> / m<sub>oplossing</sub>) × 100% | % | Concentratie in confituur, medicatie in tabletvorm, bakpoeder ... |
 | **Volumepercentage** | V% = (V<sub>opgeloste stof</sub> / V<sub>oplossing</sub>) × 100% | % | Alcoholische dranken, ammoniak, brandspiritus ... |
-| **Massaconcentratie** | - | g/l, kg/l | Medicijnen, chemicaliën |
+| **Massaconcentratie** | - | g/l, kg/l | Hoestsiroop |
 | **Volumeconcentratie** | - | ml/l | Gassen, vloeistoffen |
 | **Massafractie** | - | ppm, ppb | Zeer kleine concentraties |
 
