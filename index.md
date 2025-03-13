@@ -64,8 +64,3 @@
   - 🟢 **Groen**: < 800 ppm → goed geventileerd
   - 🟠 **Oranje**: 800-1200 ppm → ventileren gewenst
   - 🔴 **Rood**: > 1200 ppm → ventileren noodzakelijk!
-
-### 💡 Belangrijkste inzichten
-- De concentratie van medicijnen en voedingsstoffen moet aangepast zijn aan de persoon (kind vs. volwassene)
-- Volg altijd de aanbevolen dosis om gezondheidsrisico's te vermijden
-- Concentratie kan op verschillende manieren worden uitgedrukt, afhankelijk van de toepassing
