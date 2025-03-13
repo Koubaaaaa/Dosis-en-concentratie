@@ -28,7 +28,6 @@
 
 #### 🚨 Bij vergiftiging
 - Antigifcentrum: **070 245 245**
-- Sla dit nummer meteen op in je smartphone
 
 ### 4.2 Waarom heeft siroop voor kinderen niet hetzelfde effect bij een volwassene?
 
