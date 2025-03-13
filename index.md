@@ -4,7 +4,6 @@
 ### 4.1 Waarom respecteer je het best de dagelijkse aanbevolen dosis van voedingsstoffen en medicijnen?
 
 #### 🥗 Voedingsstoffen en ADH
-- Een voedingsmiddel is meer dan een optelsom van voedingsstoffen
 - Het etiket bevat informatie over de aanbevolen dagelijkse hoeveelheid
 - **ADH = aanbevolen dagelijkse hoeveelheid** of **RI = referentie-inname**
 - ⚠️ Een te hoge of te lage inname kan schadelijk zijn voor het menselijk lichaam
