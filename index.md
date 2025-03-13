@@ -49,7 +49,7 @@
 | **Volumepercentage** | V% = (V<sub>opgeloste stof</sub> / V<sub>oplossing</sub>) × 100% | % | Alcoholische dranken, ammoniak, brandspiritus ... |
 | **Massaconcentratie** | - | g/l, kg/l | Hoestsiroop |
 | **Volumeconcentratie** | - | ml/l | Gassen, vloeistoffen |
-| **Massafractie** | - | ppm, ppb | CO<sub>2-meters |
+| **Massafractie** | - | ppm, ppb | CO<sub>2<sub> -meters |
 
 #### 🧁 Voorbeeld: Hoestsiroop
 - **Werkzame stof**: Carbocisteïne
