@@ -46,7 +46,7 @@
 | Uitdrukking | Formule | Eenheid | Toepassing |
 |-------------|---------|---------|------------|
 | **Massapercentage** | m% = (m<sub>opgeloste stof</sub> / m<sub>oplossing</sub>) × 100% | % | Concentratie in voeding, medicijnen |
-| **Volumepercentage** | V% = (V<sub>opgeloste stof</sub> / V<sub>oplossing</sub>) × 100% | % | Alcoholische dranken, chemische oplossingen |
+| **Volumepercentage** | V% = (V<sub>opgeloste stof</sub> / V<sub>oplossing</sub>) × 100% | % | Alcoholische dranken, ammoniak, brandspiritus ... |
 | **Massaconcentratie** | - | g/l, kg/l | Medicijnen, chemicaliën |
 | **Volumeconcentratie** | - | ml/l | Gassen, vloeistoffen |
 | **Massafractie** | - | ppm, ppb | Zeer kleine concentraties |
